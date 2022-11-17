@@ -1,0 +1,15 @@
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\bin\Debug\net6.0\Progect01.exe
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\bin\Debug\net6.0\Progect01.deps.json
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\bin\Debug\net6.0\Progect01.runtimeconfig.json
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\bin\Debug\net6.0\Progect01.dll
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\bin\Debug\net6.0\Progect01.pdb
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.csproj.AssemblyReference.cache
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.AssemblyInfoInputs.cache
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.AssemblyInfo.cs
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.csproj.CoreCompileInputs.cache
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.dll
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\refint\Progect01.dll
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.pdb
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\Progect01.genruntimeconfig.cache
+C:\Users\SLF\Desktop\C#лекция4семинар6ДМ\Examples\Практика_лекция\Progect01\obj\Debug\net6.0\ref\Progect01.dll
